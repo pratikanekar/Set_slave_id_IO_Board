@@ -1,5 +1,6 @@
 # Set_slave_id_IO_Board
 #### First Ensure that Modbus_to_RTU convertor protocol and parity set to None
+Use following data to set slave_id for 8_relay_IO_Board
 |slave_id  |   set_slave_id_string   |      on_relay_string    |       off_relay_string |
 |----------|-------------------------|-------------------------|------------------------|
 |  51      |  001000000001020033EBD5 |       33050000FF008828  |      330500000000C9D8  | 
